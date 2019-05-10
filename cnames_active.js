@@ -1764,7 +1764,8 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
+  "mt": "mtcd.github.io",
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
